@@ -21,8 +21,8 @@ This application simplifies the process of handling student data and ensures bet
 ## 🛠️ Technologies Used
 - Programming Language: **Java / Python / JavaScript (update as per your project)**
 - Frontend: **HTML, CSS, JS (if applicable)**
-- Backend: **Node.js / Spring Boot **
-- Database: **MySQL / MongoDB / SQLite **
+- Backend: Node.js / Spring Boot 
+- Database: MySQL / MongoDB / SQLite 
 
 ---
 

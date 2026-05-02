@@ -49,8 +49,12 @@ Student-Team-Members-Management-Application/
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Suraj76450/Student-Team-Members-Management-Application-Suraj-Kumar.git
+
+2️⃣ Navigate to project folder
 cd Student-Team-Members-Management-Application-Suraj-Kumar
+
+3️⃣ Run the project
+For Java:
 javac Main.java
 java Main
-
 

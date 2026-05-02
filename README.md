@@ -42,5 +42,15 @@ Student-Team-Members-Management-Application/
 └── README.md
 ```
 
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Suraj76450/Student-Team-Members-Management-Application-Suraj-Kumar.git
+cd Student-Team-Members-Management-Application-Suraj-Kumar
+javac Main.java
+java Main
 
 

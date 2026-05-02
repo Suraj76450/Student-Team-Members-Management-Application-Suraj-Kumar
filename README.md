@@ -27,14 +27,6 @@ This application simplifies the process of handling student data and ensures bet
 ---
 
 ## 📂 Project Structure
-Student-Team-Members-Management-Application/
-│── src/
-│ ├── AddStudent.java
-│ ├── UpdateStudent.java
-│ ├── DeleteStudent.java
-│ ├── ViewStudent.java
-│── database/
-│── assets/
-│── README.md
+
 
 

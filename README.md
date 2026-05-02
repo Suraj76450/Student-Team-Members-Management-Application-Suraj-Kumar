@@ -1,5 +1,5 @@
-# Student-Team-Members-Management-Application-Suraj-Kumar
-# 🎓 Student Team Members Management Application
+
+# Student Team Members Management Application
 
 ## 📌 Overview
 The **Student Team Members Management Application** is a software system designed to manage student team members efficiently. It allows users to add, view, update, and delete student records, making it useful for academic projects, team collaborations, and organizational management.
